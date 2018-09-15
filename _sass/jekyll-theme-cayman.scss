@@ -106,9 +106,8 @@ a {
 }
 
 .page-header {
-  color: $header-heading-color;
   text-align: center;
-  background-color: $header-bg-color;
+
   background-image: "https://cdn-images-1.medium.com/max/800/1*PoxzWDUUno8tEqmLIllqzg.jpeg";
 
   @include large {
