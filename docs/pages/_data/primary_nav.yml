@@ -4,3 +4,9 @@
 - title: Ctf
   link: /ctf/
   show_on_mobile: true
+- title: Blockchain
+  link: /blockchain/
+  show_on_mobile: true
+  - title: Ml
+  link: /ml/
+  show_on_mobile: true
