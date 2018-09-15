@@ -1,0 +1,6 @@
+- title: Home
+  link: /
+  show_on_mobile: true
+- title: Ctf
+  link: /ctf/
+  show_on_mobile: true
