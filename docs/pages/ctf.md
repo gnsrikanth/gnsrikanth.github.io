@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ctf
 permalink: /ctf/
 redirect_from:
