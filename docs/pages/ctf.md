@@ -10,5 +10,5 @@ redirect_from:
 
 | Overthewire       | Solution          |
 |:-------------|:-----------------|
-|Level1 Bandit: http://overthewire.org/wargames/bandit/ |  https://medium.com/@Kan1shka9/overthewire-wargames-bandit-walkthrough-df2b86826c67 |
-|Level2 Natas: http://overthewire.org/wargames/natas/    |   |
+|Level 1 [Bandit](http://overthewire.org/wargames/bandit/): |  [https://medium.com/@Kan1shka9/overthewire-wargames-bandit-walkthrough-df2b86826c67](https://medium.com/@Kan1shka9/overthewire-wargames-bandit-walkthrough-df2b86826c67) |
+|Level 2 [Natas](http://overthewire.org/wargames/natas/): |   |
