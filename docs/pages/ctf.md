@@ -6,7 +6,7 @@ redirect_from:
   - /docs/sites/
 ---
 
-# [Overthewire](http://overthewire.org/): 
+# Overthewire: 
 
 | Overthewire       | Solution          |
 |:-------------|:-----------------|
