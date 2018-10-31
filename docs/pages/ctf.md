@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 # Overthewire: 
+[http://overthewire.org/wargames/](http://overthewire.org/wargames/)
 
 | Overthewire       | Solution          |
 |:-------------|:-----------------|
