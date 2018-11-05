@@ -16,7 +16,7 @@ Following links contain Machine learning tutorials.
 *  [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) machine learning with python playlist.
 
 # Topic wise resources:
-## Introduction
+## Prerequisites
 
 | Topics       | Soruce           |
 |:-------------|:-----------------|
@@ -24,6 +24,10 @@ Following links contain Machine learning tutorials.
 | Calculus | [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
 | Probability | [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) |
 | Algorithm Design and Analysis | [EDX](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x) |
+
+## Introduction
+| Topics       | Soruce           |
+|:-------------|:-----------------|
 | Numpy         | [Numpy Playlist](https://www.youtube.com/watch?v=BrZ5OoYzfN8&index=3&list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM) |
 | Matplotlib    | [Sentdex Matplotlib playlist](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
 | Pandas, Matplotlib | [CSDojo's Tutorial](https://www.youtube.com/watch?v=a9UrKTVEeZA) |
