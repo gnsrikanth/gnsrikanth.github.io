@@ -19,6 +19,10 @@ Everything i learn in machine learning is here! An open database of my brain.
 ## Introduction
 | Topics       | Soruce           |
 |:-------------|:-----------------|
+| Linear Algebra | [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |
+| Calculus | [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+| Probability | [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) |
+| Algorithm Design and Analysis | [EDX](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x) |
 | Numpy         | [Numpy Playlist](https://www.youtube.com/watch?v=BrZ5OoYzfN8&index=3&list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM) |
 | Matplotlib    | [Sentdex Matplotlib playlist](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
 | Pandas, Matplotlib | [CSDojo's Tutorial](https://www.youtube.com/watch?v=a9UrKTVEeZA) |
