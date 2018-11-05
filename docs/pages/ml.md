@@ -16,8 +16,9 @@ Everything i learn in machine learning is here! An open database of my brain.
 *  [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v) machine learning with python playlist.
 
 # Topic wise resources:
-
+## Introduction
 | Topics       | Soruce           |
 |:-------------|:-----------------|
-| The Bellman Equation         |  |
-| Markov Decision Processes    |  |
+| Numpy         | [Numpy Playlist](https://www.youtube.com/watch?v=BrZ5OoYzfN8&index=3&list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM) |
+| Matplotlib    | [Sentdex Matplotlib playlist](https://www.youtube.com/watch?v=q7Bo_J8x_dw&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF) |
+| Pandas, Matplotlib | [CSDojo's Tutorial](https://www.youtube.com/watch?v=a9UrKTVEeZA) |
