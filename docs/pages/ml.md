@@ -17,6 +17,7 @@ Everything i learn in machine learning is here! An open database of my brain.
 
 # Topic wise resources:
 ## Introduction
+
 | Topics       | Soruce           |
 |:-------------|:-----------------|
 | Linear Algebra | [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |
