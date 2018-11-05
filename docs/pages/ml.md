@@ -5,7 +5,7 @@ permalink: /ml/
 redirect_from:
   - /docs/sites/
 ---
-Everything i learn in machine learning is here! An open database of my brain.
+Following links contain Machine learning tutorials.
 
 # Resources to learn Machine learning/Deep learning:
 
