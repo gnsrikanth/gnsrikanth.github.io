@@ -5,7 +5,7 @@ permalink: /ml/
 redirect_from:
   - /docs/sites/
 ---
-Following links contain Machine learning tutorials.
+Following links contain resources and tutorials to master Machine learning and Deep learning.
 
 # Resources to learn Machine learning/Deep learning:
 
@@ -21,9 +21,9 @@ Following links contain Machine learning tutorials.
 | Topics       | Soruce           |
 |:-------------|:-----------------|
 | Linear Algebra | [3Blue1Brown](https://www.youtube.com/watch?v=kjBOesZCoqc&index=1&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab), [MIT](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) |
-| Calculus | [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
-| Probability | [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) |
-| Algorithm Design and Analysis | [EDX](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x) |
+| Calculus | [3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) playlist |
+| Probability | [EDX](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) course on probability |
+| Algorithm Design and Analysis | [EDX](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x) course |
 
 ## Introduction
 | Topics       | Soruce           |
