@@ -26,6 +26,7 @@ Following links contain resources and tutorials to master Machine learning and D
 | Algorithm Design and Analysis | [EDX](https://www.edx.org/course/algorithm-design-analysis-pennx-sd3x) course |
 
 ## Introduction
+
 | Topics       | Soruce           |
 |:-------------|:-----------------|
 | Numpy         | [Numpy Playlist](https://www.youtube.com/watch?v=BrZ5OoYzfN8&index=3&list=PLxgDUj5eygKmlhteKFiXIIhdqmdD2TwVM) |
