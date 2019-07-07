@@ -1,12 +1,12 @@
 - title: Home
   link: /
   show_on_mobile: true
-- title: Ctf
+- title: Ctf resources  
   link: /ctf/
   show_on_mobile: true
 - title: Blockchain
   link: /blockchain/
   show_on_mobile: true
-  - title: Ml
-  link: /ml/
+- title: Deel Learning & Machine learning
+  link: /mldl/
   show_on_mobile: true
