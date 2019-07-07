@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Machine Learning
+title: Deeplearning and Machine learning
 permalink: /deep-learning/
 redirect_from:
   - /docs/sites/
