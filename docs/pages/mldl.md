@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Machine Learning
-permalink: /ml/
+permalink: /deep-learning/
 redirect_from:
   - /docs/sites/
 ---
 Following links contain resources and tutorials to master Machine learning and Deep learning.
 
-# Resources to learn Machine learning/Deep learning:
+# Resources to learn Deep learning/Machine learning:
 
 *  Udacity Intro to data science [course](https://in.udacity.com/course/intro-to-data-science--ud359).
 *  Udacity Intro to machine learning [course](https://in.udacity.com/course/intro-to-machine-learning--ud120-india)
